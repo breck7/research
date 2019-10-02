@@ -1,0 +1,6 @@
+ignore/
+node_modules/
+*.sublime-workspace
+*.aux
+*.log
+*.synctex.gz
