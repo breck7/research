@@ -4,3 +4,8 @@ Why syntax matters and SExpressions are not a 2-D language.
 Sexp is, but then you get tree notation!)
 
 Note: lisp here really is talking about S-Expressions.
+
+<img src="https://raw.githubusercontent.com/treenotation/research/master/lisp/image1.JPG" />
+
+
+<img src="https://raw.githubusercontent.com/treenotation/research/master/lisp/image2.JPG" />
